@@ -1,1 +1,2 @@
 add some contents to it and push it to GitHub
+Open the repository on GitHub and make changes to newfile.txt
